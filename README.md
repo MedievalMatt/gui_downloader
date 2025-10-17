@@ -1,1 +1,1 @@
-
+This is A gui wrapper around MiniGlome's Archive.org-Downoader. The original, command-line version can be found at https://github.com/MiniGlome/Archive.org-Downloader, and the modified version included in the code here will work as such. However, under releases there are two executables -- one for Windows, and one for Linux/Mac -- which will allow you to run the program without need to use the command line if you desire.
